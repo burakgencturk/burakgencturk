@@ -7,7 +7,6 @@ I have authored over 20 research reports and contributed to investment strategie
 
 ### 💼 Key Skills
 - **Financial Modeling**: DCF, NPV, ROI, and EBITDA analysis
-- **Data Analysis**: SQL, Power BI, Excel (VBA)
 - **Reporting**: Research report writing, sector analysis, investment strategy development
 - **Tools**: Microsoft Office applications (Excel, Word, PowerPoint), SQL, Power BI, Bloomberg Terminal
 
